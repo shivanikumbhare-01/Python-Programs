@@ -103,7 +103,7 @@ Python-Tutorial/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Python-Tutorial.git
+git clone https://github.com/shivanikumbhare-01/Python-Tutorial.git
 ```
 
 ### Navigate to the Project
